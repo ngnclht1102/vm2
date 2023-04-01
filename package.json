@@ -20,12 +20,14 @@
   "license": "MIT",
   "dependencies": {
     "acorn": "^8.7.0",
-    "acorn-walk": "^8.2.0"
+    "acorn-walk": "^8.2.0",
+     "coffee-script": "^1.12.7"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-integromat": "^1.5.0",
-    "mocha": "^6.2.2"
+    "mocha": "^6.2.2",
+    
   },
   "engines": {
     "node": ">=6.0"
